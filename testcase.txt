@@ -1,0 +1,57 @@
+Import::from(math.BigInteger,random.Float)
+require ( math , random)
+
+public CLASS Dot Inherited from Plottable, Movable
+constructor Dot <- function (int px , int py ):
+x = px
+y = py
+end
+end_Class
+
+myfunction <- function() :
+@print(" hi ")
+end
+
+@print ( " hi " )
+
+
+while [ true ] do
+i++
+done
+do k -- as_long_as [ k > 0 ]
+for (( int index =0 ; index != 20 ; index ++ ))
+do
+<statements>
+done
+
+
+case fruit
+when "apple"
+@print("This is an apple" )
+when "banana"
+@print("This is a banana")
+else
+@print("I don't know what this fruit is")
+end
+
+if [ index == 0 ]
+then
+@print( "equal")
+else
+@print( "not equal")
+Fi
+
+
+const string myConst <= “Lorem Ipsum” // defining constants
+private int myVar <= 25 // defining integer
+private bool flag
+
+
+int myArray new [] <= int[4] // array definition
+float arr [] <= [0.05, 42, 42.25, 43] // my Initiated Array
+
+
+try:
+except ValueError, Argument :
+@print ("Error ",err)
+
